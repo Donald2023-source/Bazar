@@ -15,6 +15,10 @@ module.exports = {
         medium: ["OpenSans_500Medium"],
         semibold: ["OpenSans_600SemiBold"],
         bold: ["OpenSans_700Bold"],
+
+        roboto: ["Roboto"],
+        "roboto-medium": ["RobotoMedium"],
+        "roboto-bold": ["RobotoBold"],
       },
     },
   },
